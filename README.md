@@ -1,1 +1,11 @@
 # EvaluacionParcial_movietime
+# CineClic App
+### CineClic App es tu taquilla personal en el celular. Una aplicación rápida y fácil de usar donde puedes descubrir la cartelera, ver los tráilers de tus películas favoritas, checar los horarios y comprar tus entradas en un par de clics.
+
+### 1. Preparamos el entorno de trabajo para el diseño de la aplicación "CineClic"
+<img width="900" height="988" alt="image" src="https://github.com/user-attachments/assets/9e73b1a8-51bf-4c71-b48e-0fcc97402b88" />
+
+
+### 2. Utilizamos el componente "ImagenView" para insertar la imagen como portada de la pelicula
+<img width="1333" height="917" alt="image" src="https://github.com/user-attachments/assets/4379c2a4-5aa4-46ee-a2d1-e5d7a4c38487" />
+
