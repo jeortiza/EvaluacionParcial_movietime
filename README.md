@@ -9,3 +9,8 @@
 ### 2. Utilizamos el componente "ImagenView" para insertar la imagen como portada de la pelicula
 <img width="1333" height="917" alt="image" src="https://github.com/user-attachments/assets/4379c2a4-5aa4-46ee-a2d1-e5d7a4c38487" />
 
+
+### 3. Agregame el componente "TextView" para agregar el titulo de la pelicula
+<img width="1344" height="775" alt="image" src="https://github.com/user-attachments/assets/76cd5395-b6f0-4d03-83ff-9d4b099a9410" />
+
+
