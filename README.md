@@ -15,4 +15,6 @@
 
 
 
-### 4. Utilizamos el componente 
+### 4. Utilizamos el componente "Plain Text" texto plano para realizar el espacio que tendra la aplicación para la compra de entradas
+<img width="1596" height="712" alt="image" src="https://github.com/user-attachments/assets/0f8b5705-73e3-49da-a906-c3203eef184e" />
+
