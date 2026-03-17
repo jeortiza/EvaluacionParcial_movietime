@@ -21,3 +21,8 @@
 
 ### 5. Agregamos el componente "ratinBar" para la creación de las estrellas para la calificación de la pelicula.
 <img width="1597" height="747" alt="image" src="https://github.com/user-attachments/assets/adcabf18-7217-4072-b9ae-bcf7ac354f5b" />
+
+
+### 6. Utilizamos el componente "button" para la creación de botones para la compra de las entradas y para la visualización del trailer.
+<img width="1597" height="845" alt="image" src="https://github.com/user-attachments/assets/36938a51-088d-41ba-ad55-14ad67d0dd6d" />
+
