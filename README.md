@@ -26,3 +26,8 @@
 ### 6. Utilizamos el componente "button" para la creación de botones para la compra de las entradas y para la visualización del trailer.
 <img width="1597" height="845" alt="image" src="https://github.com/user-attachments/assets/36938a51-088d-41ba-ad55-14ad67d0dd6d" />
 
+
+### 7. Importamos una imagen de fondo de pantalla en formato .jpg para el formulario, y mostramos la vista final. 
+<img width="1602" height="957" alt="image" src="https://github.com/user-attachments/assets/776a27ef-b2a8-487d-b3ee-ec0e5ed7fb34" />
+
+
