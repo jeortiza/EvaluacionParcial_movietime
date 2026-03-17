@@ -18,3 +18,6 @@
 ### 4. Utilizamos el componente "Plain Text" texto plano para realizar el espacio que tendra la aplicación para la compra de entradas
 <img width="1596" height="712" alt="image" src="https://github.com/user-attachments/assets/0f8b5705-73e3-49da-a906-c3203eef184e" />
 
+
+### 5. Agregamos el componente "ratinBar" para la creación de las estrellas para la calificación de la pelicula.
+<img width="1597" height="747" alt="image" src="https://github.com/user-attachments/assets/adcabf18-7217-4072-b9ae-bcf7ac354f5b" />
